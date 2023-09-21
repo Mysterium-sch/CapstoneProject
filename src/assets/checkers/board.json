@@ -1,0 +1,390 @@
+{
+    "squares": [
+        {
+            "id": "A0",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R0"
+        },
+        {
+            "id": "A1",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "A2",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R1"
+        },
+        {
+            "id": "A3",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "A4",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R2"
+        },
+        {
+            "id": "A5",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "A6",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R3"
+        },
+        {
+            "id": "A7",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "B0",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "B1",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R4"
+        },
+        {
+            "id": "B2",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "B3",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R5"
+        },
+        {
+            "id": "B4",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "B5",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R6"
+        },
+        {
+            "id": "B6",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "B7",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R7"
+        },
+        {
+            "id": "C0",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R8"
+        },
+        {
+            "id": "C1",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "C2",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R9"
+        },
+        {
+            "id": "C3",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "C4",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R10"
+        },
+        {
+            "id": "C5",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "C6",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "R11"
+        },
+        {
+            "id": "C7",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+
+
+        {
+            "id": "D0",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "D1",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "D2",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "D3",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "D4",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "D5",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "D6",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "D7",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "E0",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "E1",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "E2",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "E3",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "E4",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "E5",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "E6",
+            "empty": "true",
+            "color": "white",
+            "pawnId": ""
+        },
+        {
+            "id": "E7",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "F0",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "F1",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B11"
+        },
+        {
+            "id": "F2",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "F3",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B10"
+        },
+        {
+            "id": "F4",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "F5",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B9"
+        },
+        {
+            "id": "F6",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "F7",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B8"
+        },
+        {
+            "id": "G0",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B7"
+        },
+        {
+            "id": "G1",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "G2",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B6"
+        },
+        {
+            "id": "G3",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "G4",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B5"
+        },
+        {
+            "id": "G5",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "G6",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B4"
+        },
+        {
+            "id": "G7",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "H0",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "H1",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B3"
+        },
+        {
+            "id": "H2",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "H3",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B2"
+        },
+        {
+            "id": "H4",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "H5",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B1"
+        },
+        {
+            "id": "H6",
+            "empty": "true",
+            "color": "black",
+            "pawnId": ""
+        },
+        {
+            "id": "H7",
+            "empty": "false",
+            "color": "white",
+            "pawnId": "B0"
+        }
+    ]
+}

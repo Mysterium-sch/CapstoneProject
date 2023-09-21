@@ -7,7 +7,7 @@ We are Cocky's Coders and the minds behind Ye Old Games. During our senior year 
 ## What is it, and How to play
 Ye Old Games is a mobile gaming app with three central classics: Chess, Checkers, and Solitaire. When you first boot up the game, you only have access to Solitaire. The longer you play, the more points you earn. Once you earn enough points, you may purchase one of the following: couch co-op chess or checkers. Once one game has been purchased, restart and reach another. We wanted some progression to the app, but not make it feel taxing. Ultimately, this game is supposed to be relaxing, easy to play, and not time-consuming. We tailored the game to our User Demographic: busy people on the go who wanted something familiar to do during a commute or short lull.
 
-The complete directions on downloading the source code are on our [Github Repository](https://github.com/Mysterium-sch/CapstoneProject), but I will summarize how to play using the most recent release. To use the app, download the [most recent release](https://github.com/Mysterium-sch/CapstoneProject/releases/tag/v1.0) to your mobile device (Android or IOS) and open it up - it's as simple as that. 
+The complete directions on downloading the source code are on our [Github Repository](https://github.com/Mysterium-sch/CapstoneProject), but I will summarize how to play using the most recent release. To use the app, download the [most recent release](https://github.com/Mysterium-sch/CapstoneProject/releases/tag/V1.0) to your mobile device (Android or IOS) and open it up - it's as simple as that. 
 
 ## There are several reasons you would want to play our app:
 1. You are bored and want an easy-to-play game to which you do not have to dedicate hours to.
